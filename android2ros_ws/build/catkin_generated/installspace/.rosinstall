@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kimmingyu/android2ros_ws/install/setup.sh

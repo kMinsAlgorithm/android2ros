@@ -1,0 +1,2 @@
+and2ros
+-DCATKIN_DEVEL_PREFIX=/home/kimmingyu/android2ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kimmingyu/android2ros_ws/install -G Unix Makefiles

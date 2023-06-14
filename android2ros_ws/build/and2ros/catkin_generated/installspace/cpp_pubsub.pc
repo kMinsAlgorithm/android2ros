@@ -1,0 +1,8 @@
+prefix=/home/kimmingyu/android2ros_ws/install
+
+Name: cpp_pubsub
+Description: Description of cpp_pubsub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs actionlib_msgs
